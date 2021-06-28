@@ -1,4 +1,4 @@
-### Hi there, my name is Tim and I am an aspiring Data Scientist👋
+### Hi there, my name is Tim and I am interested in Machine Learning and Data Science👋
 
 
 🔭 I’m currently working on: 
