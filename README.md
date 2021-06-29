@@ -5,6 +5,7 @@
 
   - Unsupervised Text Style Transfer to Rephrase Toxic Comments.
   - Microsoft Azure Machine Learning Engineer Nanodegree.
+  - PySpark skills track on DataCamp as part of a skills improvement sprint with colleagues.
  
 🤔 I’m currently thinking about:
 
