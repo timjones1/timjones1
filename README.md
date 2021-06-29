@@ -16,4 +16,4 @@
   - Doing a bit of DIY round the house.
 
 📫 How to reach me:
- - Linkedin: https://www.linkedin.com/in/
+ - Linkedin: https://www.linkedin.com/in/tim-rob-jones
