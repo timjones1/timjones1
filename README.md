@@ -9,7 +9,7 @@
  
 🤔 I’m currently thinking about:
 
-  - How to deploy ML models into production with a little help from the folks at Fullstackdeeplearning.com
+  - How to deploy ML models into production with a little help from the folks at [Full Stack Deep Learning](www.fullstackdeeplearning.com)
      
 🌱 In my free time I love:
 
