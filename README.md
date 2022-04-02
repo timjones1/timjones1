@@ -14,7 +14,7 @@
 🌱 In my free time I love:
 
   - Rowing with the Elizabethan Boat Club.
-  - Doing a bit of DIY round the house.
+  - Doing DIY round the house.
 
 📫 How to reach me:
  - Linkedin: https://www.linkedin.com/in/tim-rob-jones
