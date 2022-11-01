@@ -3,9 +3,7 @@
 
 🔭 I’m currently working on: 
 
-  - Unsupervised Text Style Transfer to Rephrase Toxic Comments.
-  - Microsoft Azure Machine Learning Engineer Nanodegree.
- 
+  - Semantic Search for question answering using Haystack.
  
 🤔 I’m currently thinking about:
 
